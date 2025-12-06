@@ -19,7 +19,7 @@
   // Custom Domains
   "routes": [
     {
-      "pattern": "beta.drimit.io",
+      "pattern": "drimit.io",
       "custom_domain": true
     }
   ],
@@ -35,6 +35,6 @@
    * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
    */
   "vars": {
-    "NEXT_PUBLIC_APP_URL": "https://beta.drimit.io"
+    "NEXT_PUBLIC_APP_URL": "https://drimit.io"
   }
 }
